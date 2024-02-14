@@ -60,7 +60,7 @@ One more step closer to my dream of becoming a fullstack
 
 - GibHub - [Personal Repository](https://github.com/ViniCellist)
 - Frontend Mentor - [Profile](https://www.frontendmentor.io/profile/ViniCellist)
-- LinkedIn - [Professional](https://www.linkedin.com/in/vinicius-de-souza-duarte-57937b192/)
+- LinkedIn - [Professional](https://www.linkedin.com/in/viniciussouzaduarte/)
 
 - Instagram - [personal](https://www.instagram.com/vinicius_duartesd/)
 
